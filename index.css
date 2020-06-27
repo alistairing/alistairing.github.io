@@ -116,7 +116,7 @@ img {
 }
 
 /* --------------------------------------- */
-/* ----- Headlines and Paragraphs ----- */
+/* ----- Headlines and Paragraphs -------- */
 /* --------------------------------------- */
 
 h1,
@@ -405,7 +405,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .header {
     background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('Images/TommyNeck.jpg');
+        url('Images/MaryMacRel-red\ -\ 1.jpeg');
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -512,7 +512,7 @@ body:not(.user-is-tabbing) a:focus {
 .client__logos {
     display: flex;
     justify-content: space-between;
-    filter: invert(100%) grayscale(100%) opacity(.8);
+    /*filter: invert(100%) grayscale(100%) opacity(.8);*/
 }
 
 .client__logo {
