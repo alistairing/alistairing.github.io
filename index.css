@@ -38,6 +38,7 @@
     --pink: #ff3258;
     --white: #f0e9f2;
     --white-1: #e5e5e6da;
+    --gray: #161616;
 
 
     --container-max-width: 1180px;
@@ -604,6 +605,10 @@ body:not(.user-is-tabbing) a:focus {
     height: 2.5rem;
     width: 80px;
     transform: translateY(3px);
+}
+
+.footer__body{
+    color: var(--gray)
 }
 
 @media(max-width: 500px) {
